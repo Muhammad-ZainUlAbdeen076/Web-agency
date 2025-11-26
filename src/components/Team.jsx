@@ -1,6 +1,6 @@
 import React from "react";
 import member2 from "../assets/pic2.jpg";
-
+import member3 from "../assets/m2.jpg";
 
 // TEAM SECTION (Yellow + Black + White Theme)
 // Just import and use <TeamSection />
@@ -12,14 +12,14 @@ const teamMembers = [
     img: "https://via.placeholder.com/300x300", // replace later
   },
   {
-    name: "Zain Ahmed",
+    name: "Zain",
     role: "Frontend Developer",
     img: member2
   },
   {
-    name: "Ayesha Khan",
+    name: "Malik Shaharyar",
     role: "UI/UX Designer",
-    img: "https://via.placeholder.com/300x300",
+    img: member3,
   },
 ];
 
